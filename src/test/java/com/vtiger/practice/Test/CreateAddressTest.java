@@ -6,6 +6,6 @@ public class CreateAddressTest {
 @Test
 public void address()
 {
-	System.out.println("6-4-348/1 , maruthi nagar,atp");
+	System.out.println("6-4-348/1 , maruthi nagar,atp,andhara pradesh");
 }
 }
